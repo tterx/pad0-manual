@@ -1,6 +1,6 @@
 # PAD0 Manual 1.0
 
-Windows용 수동 퍼즐 경로 도우미입니다.
+Windows 64비트용 수동 퍼즐 경로 도우미입니다.
 
 [Windows 실행 파일 다운로드](https://raw.githubusercontent.com/tterx/pad0-manual/main/PAD0Manual-1.0-Windows.zip) · ZIP을 풀고 **PAD0Manual.exe**를 실행하세요.
 
