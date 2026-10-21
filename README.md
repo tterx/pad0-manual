@@ -2,7 +2,7 @@
 
 Windows 64비트용 수동 퍼즐 경로 도우미입니다.
 
-[실행 파일 다운로드](https://github.com/tterx/pad0-manual/releases/latest) · 릴리스의 **Assets**에서 ZIP을 받아 압축을 풀고 **PAD0Manual.exe**를 실행하세요.
+[실행 파일 ZIP 다운로드](https://raw.githubusercontent.com/tterx/pad0-manual/main/PAD0Manual-1.0-Windows.zip) · 압축을 풀고 **PAD0Manual.exe**를 실행하세요.
 
 - **다속성팟:** 불·물·나무·빛·어둠을 모두 매치하는 경로를 찾습니다.
 - **콤보팟:** 설정한 콤보 수를 목표로 경로를 찾습니다.
